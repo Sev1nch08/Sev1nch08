@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 Men haqimda
-- 💻 **Frontend Web Developer** — zamonaviy, qulay va chiroyli veb-interfeyslar yarataman.
-- 🛠 **Asosiy e'tiborim:** React, Tailwind CSS, JavaScript va Vite.
-- ⚡ **Maqsadim:** Doim yangi bilim va amaliy tajriba ortirish.
+- 💻 **Frontend Web Developer** — zamonaviy va qulay interfeyslar yarataman.
+- 🛠 Asosiy e'tiborim: **React**, **Tailwind CSS**, **JavaScript** va **Vite**.
+- ⚡️ Doim yangi bilim va tajriba ortirishga intilaman.
 
 ---
 
@@ -58,7 +58,7 @@
 ### 🛠 Texnologiyalar va Vositalar
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode,figma&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode,figma&theme=dark" />
   </a>
 </p>
 
@@ -67,8 +67,8 @@
 ### 📊 GitHub Statistikam va Faolligim
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sev1nch08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sev1nch08&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sev1nch08&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sev1nch08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sev1nch08&label=Profile%20Views&color=0e75a7&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sev1nch08&label=Profile%20Views&color=0e75a7&style=flat-square" alt="Views" />
 </p>
