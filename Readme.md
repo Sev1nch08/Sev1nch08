@@ -1,34 +1,41 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=👋+Salom,+men+Sevinch;&lt;Frontend+Developer+%2F%3E;Building+Creative+Web+Apps" alt="Typing SVG" />
-</h1>
+<div align="center">
 
+<!-- ZAMONAVIY GRADIENTLI HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=Sevinch&fontSize=70&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=Frontend%20Engineer&descSize=25&descAlignY=70" width="100%" />
+
+<br/>
+
+<!-- MINIMALIST STATISTIKA OYNALARI (Glassmorphism effekt) -->
 <p align="center">
-  <em>Frontend Web Developer • Focused on React & Modern Web Interfaces</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sev1nch08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sev1nch08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
 </p>
 
+<!-- TASHRIFCHILAR VA FOALLIK (Ranglar moslangan) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sev1nch08&label=Profile%20Views&color=61DAFB&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sev1nch08&label=Profile%20Views&color=532ab9&style=flat-square" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sev1nch08&theme=tokyonight&hide_border=true&background=0D1117" height="30" />
 </p>
 
 ---
 
-### 💻 Texnologiyalar & Vositalar
+### 💻 TEXNOLOGIYA STEKI
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,vite,git,github,vscode,figma&theme=dark" />
   </a>
 </p>
 
 ---
 
-### ⚡ Men haqimda
+### ✨ MEN HAQIMDA
 
+<!-- INTERAKTIV CODING BLOK -->
 ```javascript
-const developer = {
-  name: "Sevinch",
-  role: "Frontend Developer",
-  code: ["JavaScript", "React.js", "Tailwind CSS", "HTML/CSS"],
-  tools: ["Vite", "Git", "GitHub", "VS Code", "Figma"],
-  currentFocus: "Zamonaviy va qulay veb-ilovalar yaratish",
+const sevinch = {
+  role: 'Frontend Engineer',
+  stack: ['React', 'TypeScript', 'Tailwind CSS', 'Vite'],
+  focus: 'Zamonaviy Web UI/UX va Interaktiv Ilovalar',
+  currentStudy: 'Advanced State Management & Performance Optimization'
 };
