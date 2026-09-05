@@ -58,6 +58,12 @@
   </tr>
 </table>
 
+<!-- GitHub Pinned Repositories Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sev1nch08&repo=Kafe-systeem&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sev1nch08&repo=Kassa&theme=tokyonight&hide_border=true" />
+</p>
+
 </div>
 
 ---
@@ -85,6 +91,11 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sev1nch08&layout=compact&theme=tokyonight&hide_border=true&cache=false" />
 </p>
 
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sev1nch08&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sev1nch08&theme=tokyonight&hide_border=true&cache=false" alt="GitHub Streak" />
 </p>
@@ -92,6 +103,13 @@
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 🎵 Listening Status
+<p align="center">
+  <img src="https://novorepo.vercel.app/api/spotify" alt="Spotify Player" />
 </p>
 
 ---
