@@ -1,58 +1,31 @@
-<div align="center">
-  <!-- Minimalist Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27&height=180&section=header&text=Sevinch&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+```javascript
+/**
+ * @file Overview of Sevinch's Developer Profile
+ * @author Sevinch
+ * @role Frontend Web Developer
+ */
 
-  <!-- Yozuv harakati animatsiyasi -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Tailwind+CSS;Building+Creative+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
+const developer = {
+  name: "Sevinch",
+  role: "Frontend Web Developer",
+  focus: ["User Experience (UX)", "Clean Architecture", "Responsive Web Design"],
+  
+  // Asosiy texnologiyalar va vositalar
+  techStack: {
+    core: ["JavaScript (ES6+)", "React.js", "Tailwind CSS"],
+    buildTools: ["Vite", "Git", "GitHub"],
+    design: ["Figma"]
+  },
 
----
+  // Amalga oshirilgan loyihalar
+  projects: [
+    { name: "AI Cafe", type: "Restaurant Management App", tech: "React, Tailwind, Firebase" },
+    { name: "Kassa App", type: "Point-of-Sale System", tech: "React, Vite, CSS" },
+    { name: "To'y Xizmatlari", type: "Event Invitation Service", tech: "React, Vite, Tailwind" }
+  ],
 
-### 🚀 Men haqimda
-- 💻 **Frontend Web Developer** — zamonaviy, tezkor va qulay interfeyslar yarataman.
-- 🛠 Asosiy e'tiborim: **React**, **Tailwind CSS**, **JavaScript** va **Vite**.
-- ⚡️ Doim yangi bilim va amaliy tajriba ortirishga intilaman.
+  // Maqsadi
+  currentGoal: "Building modern, intuitive, and scalable web applications."
+};
 
----
-
-### 🛠 Texnologiyalar va Vositalar
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode,figma&theme=dark&perline=5" />
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Yutuqlari
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sev1nch08&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
-
-### 💡 Kunlik Dasturchi Hikmati
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-</p>
-
----
-
-### 📊 GitHub Statistikam va Faolligim
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sev1nch08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sev1nch08&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sev1nch08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sev1nch08&label=Profile%20Views&color=0e75a7&style=flat" alt="Views" />
-</p>
+console.log(`Hello, World! I'm ${developer.name}. Welcome to my profile! 🚀`);
