@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27&height=180&section=header&text=Sevinch&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+  <!-- Neon / Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27&height=200&section=header&text=Sevinch&fontSize=55&fontColor=ffffff&animation=twinkling" width="100%" />
 
+  <!-- Animatsiyali Yozuv -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Tailwind+CSS;Building+Creative+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
   </a>
@@ -8,10 +10,17 @@
 
 ---
 
+### 🏆 GitHub Yutuqlari (Trofeylar)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sev1nch08&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
 ### 🚀 Men haqimda
-- 💻 **Frontend Web Developer** — zamonaviy va qulay interfeyslar yarataman.
+- 💻 **Frontend Web Developer** — zamonaviy, tez va qulay interfeyslar yarataman.
 - 🛠 Asosiy e'tiborim: **React**, **Tailwind CSS**, **JavaScript** va **Vite**.
-- ⚡️ Doim yangi bilim va tajriba ortirishga intilaman.
+- ⚡️ Doim yangi texnologiyalar va tajriba ortirishga intilaman.
 
 ---
 
@@ -24,11 +33,25 @@
 
 ---
 
+### 💡 Kunlik Dasturchi Hikmati (Quote)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</p>
+
+---
+
+### 🤣 Dasturchilar Latifasi (Dev Joke)
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</p>
+
+---
+
 ### 📊 GitHub Statistikam va Faolligim
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sev1nch08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sev1nch08&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sev1nch08&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sev1nch08&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
