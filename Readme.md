@@ -8,6 +8,13 @@
 
 ---
 
+### 🏆 GitHub Yutuqlari (Trophies)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sev1nch08&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
 ### 🚀 Men haqimda
 - 💻 **Frontend Web Developer** — zamonaviy va qulay interfeyslar yarataman.
 - 🛠 Asosiy e'tiborim: **React**, **Tailwind CSS**, **JavaScript** va **Vite**.
@@ -64,6 +71,13 @@
 
 ---
 
+### 💡 Kunlik Dasturchi Hikmati
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</p>
+
+---
+
 ### 📊 GitHub Statistikam va Faolligim
 
 <p align="center">
@@ -73,6 +87,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sev1nch08&theme=tokyonight&hide_border=true&cache=false" alt="GitHub Streak" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
