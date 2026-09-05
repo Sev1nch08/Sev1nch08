@@ -1,41 +1,44 @@
 <div align="center">
+  <!-- Minimalist Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,27&height=180&section=header&text=Sevinch&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<!-- ZAMONAVIY GRADIENTLI HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=Sevinch&fontSize=70&fontColor=ffffff&fontAlignY=45&animation=twinkling&desc=Frontend%20Engineer&descSize=25&descAlignY=70" width="100%" />
-
-<br/>
-
-<!-- MINIMALIST STATISTIKA OYNALARI (Glassmorphism effekt) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sev1nch08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sev1nch08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-</p>
-
-<!-- TASHRIFCHILAR VA FOALLIK (Ranglar moslangan) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sev1nch08&label=Profile%20Views&color=532ab9&style=flat-square" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sev1nch08&theme=tokyonight&hide_border=true&background=0D1117" height="30" />
-</p>
+  <!-- Yozuv harakati animatsiyasi -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Tailwind+CSS;Building+Creative+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-### 💻 TEXNOLOGIYA STEKI
+### 🚀 Men haqimda
+- 💻 **Frontend Web Developer** — zamonaviy va qulay interfeyslar yarataman.
+- 🛠 Asosiy e'tiborim: **React**, **Tailwind CSS**, **JavaScript** va **Vite**.
+- ⚡️ Doim yangi bilim va tajriba ortirishga intilaman.
 
+---
+
+### 🛠 Texnologiyalar va Vositalar
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,vite,git,github,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,git,github,vscode,figma&theme=dark&perline=5" />
   </a>
 </p>
 
 ---
 
-### ✨ MEN HAQIMDA
+### 📊 GitHub Statistikam va Faolligim
 
-<!-- INTERAKTIV CODING BLOK -->
-```javascript
-const sevinch = {
-  role: 'Frontend Engineer',
-  stack: ['React', 'TypeScript', 'Tailwind CSS', 'Vite'],
-  focus: 'Zamonaviy Web UI/UX va Interaktiv Ilovalar',
-  currentStudy: 'Advanced State Management & Performance Optimization'
-};
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sev1nch08&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sev1nch08&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sev1nch08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sev1nch08&label=Profile%20Views&color=0e75a7&style=flat" alt="Views" />
+</p>
