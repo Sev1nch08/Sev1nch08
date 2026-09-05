@@ -4,6 +4,16 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Tailwind+CSS;Building+Creative+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
   </a>
+
+  <!-- Zamonaviy Ijtimoiy Tarmoq Badglari -->
+  <p align="center">
+    <a href="https://github.com/Sev1nch08" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -12,6 +22,15 @@
 - 💻 **Frontend Web Developer** — zamonaviy va qulay interfeyslar yarataman.
 - 🛠 Asosiy e'tiborim: **React**, **Tailwind CSS**, **JavaScript** va **Vite**.
 - ⚡️ Doim yangi bilim va tajriba ortirishga intilaman.
+
+---
+
+### 💻 Sarahshud Loyihalar
+| Loyiha | Tavsif | Texnologiyalar |
+| :--- | :--- | :--- |
+| **AI Cafe** | Restoran uchun zakazlar va oshxona boshqaruvi tizimi | React, Tailwind, Firebase |
+| **Kassa App** | Savdo va to'lov operatsiyalari veb-ilovasi | React, Vite, CSS |
+| **To'y Xizmatlari** | Taklifnomalar va marosim xizmatlari platformasi | React, Vite, Tailwind |
 
 ---
 
@@ -33,6 +52,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sev1nch08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Faollik bo'yicha Snake Game Animatsiyasi -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sev1nch08/Sev1nch08/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
