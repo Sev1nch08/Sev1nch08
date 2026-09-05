@@ -1,31 +1,26 @@
-```javascript
-/**
- * @file Overview of Sevinch's Developer Profile
- * @author Sevinch
- * @role Frontend Web Developer
- */
+<div align="center">
 
-const developer = {
-  name: "Sevinch",
-  role: "Frontend Web Developer",
-  focus: ["User Experience (UX)", "Clean Architecture", "Responsive Web Design"],
-  
-  // Asosiy texnologiyalar va vositalar
-  techStack: {
-    core: ["JavaScript (ES6+)", "React.js", "Tailwind CSS"],
-    buildTools: ["Vite", "Git", "GitHub"],
-    design: ["Figma"]
-  },
+  <h1>✨ Salom, men Sevinch 👋</h1>
+  <p><i>Frontend Web Developer</i></p>
 
-  // Amalga oshirilgan loyihalar
-  projects: [
-    { name: "AI Cafe", type: "Restaurant Management App", tech: "React, Tailwind, Firebase" },
-    { name: "Kassa App", type: "Point-of-Sale System", tech: "React, Vite, CSS" },
-    { name: "To'y Xizmatlari", type: "Event Invitation Service", tech: "React, Vite, Tailwind" }
-  ],
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma&theme=dark" />
+    </a>
+  </p>
 
-  // Maqsadi
-  currentGoal: "Building modern, intuitive, and scalable web applications."
-};
+</div>
 
-console.log(`Hello, World! I'm ${developer.name}. Welcome to my profile! 🚀`);
+---
+
+### 🌸 Men haqimda
+
+* 💻 **Yo'nalishim:** Frontend dasturlash va zamonaviy veb-interfeyslar yaratish.
+* 🛠 **Texnologiyalar:** React, JavaScript, Tailwind CSS, Vite.
+* 🎯 **Maqsaddim:** Qulay, tezkor va chiroyli veb-ilovalar ishlab chiqish.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sev1nch08&label=Views&color=61DAFB&style=flat-square" />
+</p>
